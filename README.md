@@ -11,7 +11,6 @@ associated with customer churn and retention.
 - Clean and prepare the dataset
 - Perform exploratory data analysis
 - Identify factors associated with churn
-- Perform business-oriented SQL analysis
 - Generate customer retention insights
 
 ## Technologies Used
@@ -21,7 +20,6 @@ associated with customer churn and retention.
 - NumPy
 - Matplotlib
 - Seaborn
-- MySQL
 
 ## Analysis Performed
 
@@ -34,7 +32,6 @@ associated with customer churn and retention.
 - Bivariate analysis
 - Multivariate analysis
 - Correlation analysis
-- SQL business analysis
 
 ## Key Insights
 
